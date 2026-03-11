@@ -1,7 +1,8 @@
 # image-ocr
-
 Runs ocr on pasted images and posts result in details box.
 This also allows the images to be searchable.
+
+This was based on the great work here - https://github.com/kaffarell/obsidian-tesseract-ocr
 
 ## How to Use
 1) Install the 'Local Images Plus' plugin so that all pasted images get copied to a local folder (this plugin uses 'Meta/Attachments/' per default)  
